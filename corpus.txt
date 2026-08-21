@@ -1,0 +1,29 @@
+Rockets escape Earth's gravity by reaching escape velocity, about 11.2 km/s, achieved by burning propellant to generate thrust that exceeds the vehicle's weight, accelerating it fast enough to overcome gravitational pull.
+
+The Saturn V rocket, used in the Apollo program, remains the most powerful rocket ever successfully flown, generating 7.5 million pounds of thrust at liftoff.
+
+Low Earth Orbit (LEO) ranges from about 160 km to 2,000 km altitude. The International Space Station orbits at roughly 400 km, completing an orbit every 90 minutes.
+
+The Apollo 11 mission in 1969 was the first crewed mission to land humans on the Moon, with astronauts Neil Armstrong and Buzz Aldrin walking on the lunar surface while Michael Collins orbited above in the command module.
+
+Reusable rocket technology, pioneered at scale by SpaceX's Falcon 9, lands its first stage booster vertically after launch, dramatically reducing the cost per launch compared to fully expendable rockets.
+
+Mars missions face a communication delay of 4 to 24 minutes one-way depending on the relative positions of Earth and Mars, which makes real-time control of rovers impossible.
+
+The James Webb Space Telescope, launched in 2021, observes primarily in infrared light and orbits the Sun near the second Lagrange point (L2), about 1.5 million km from Earth.
+
+A gravity assist (or slingshot maneuver) uses a planet's gravity and orbital motion to change a spacecraft's speed and trajectory without expending fuel, used extensively by missions like Voyager 1 and 2.
+
+Ion propulsion engines produce very low thrust but extremely high efficiency, making them ideal for long-duration deep space missions where fuel mass is a major constraint.
+
+The Karman line, at 100 km above sea level, is the internationally recognized boundary between Earth's atmosphere and outer space.
+
+Geostationary orbit sits at roughly 35,786 km above the equator, where a satellite's orbital period matches Earth's rotation, so it appears stationary relative to the ground.
+
+Solar panels on spacecraft convert sunlight to electricity, but their efficiency drops significantly as a spacecraft travels farther from the Sun, which is why outer-planet missions often use radioisotope thermoelectric generators (RTGs) instead.
+
+Re-entry heating occurs because a spacecraft compresses air ahead of it at hypersonic speed; heat shields use ablative or reusable thermal protection materials to prevent the vehicle from burning up.
+
+The Artemis program aims to return humans to the Moon and establish a sustainable presence there as a stepping stone for future crewed missions to Mars.
+
+Space debris in LEO, including defunct satellites and fragments from collisions, poses a growing collision risk for active spacecraft, a problem known as the Kessler syndrome if left unmanaged.
